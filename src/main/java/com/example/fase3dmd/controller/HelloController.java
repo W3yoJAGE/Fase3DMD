@@ -1,4 +1,4 @@
-package com.example.fase3dmd;
+package com.example.fase3dmd.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
