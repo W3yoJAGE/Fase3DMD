@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/fase2_dmd
+db.user=root
+db.password=
